@@ -1,0 +1,38 @@
+
+==> Anya the clerk has arrived at the Northside branch
+
+==> Quinlan the trainer has arrived at the Northside branch
+
+==> Max the clerk has arrived at the Southside branch
+
+==> Evan the trainer has arrived at the Southside branch
+
+
+** NORTHSIDE LOG **
+
+==> New items have arrived at the Northside location! The total amount added is now: 4
+
+ ==> Anya the clerk has counted the Northside register. The total value of the register is: $12866.1
+
+==> Anya the clerk has just done inventory at Northside. The total value of the inventory is currently: 188.0
+
+ ==> Anya the clerk has done inventory for Northside. The total number of pets + supplies is: 4
+
+ ==> Anya the clerk has left at the Northside store.
+
+ ==> Quinlan the trainer has left at the Northside store.
+
+
+** SOUTHSIDE LOG **
+
+ ==> Max the clerk has counted the Southside register. The total value of the register is: $14063.400000000001
+
+==> Max the clerk has just done inventory at Southside. The total value of the inventory is currently: 0.0
+
+ ==> Max the clerk has done inventory for Southside. The total number of pets + supplies is: 0
+
+ ==> At the end of today, the total number of the customer visits is now: 19
+
+ ==> Max the clerk has left at the Southside store.
+
+ ==> Evan the trainer has left at the Southside store.

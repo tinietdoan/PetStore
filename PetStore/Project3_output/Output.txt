@@ -1,0 +1,467 @@
+Corben is feeling sick today and will not come in....
+Anya
+Evan is feeling sick today and will not come in....
+Corben the Clerk arrives on Day 0
+Kendall the Trainer arrives on Day 0
+Kendall the trainer is going to train the animals!!
+Using negitive renforcement training techiniques on Ted!!
+Oh no! Ted the Pitbull is no longer housebroken!!
+Using negitive renforcement training techiniques on Ted!!
+Ted the Lab is now housebroken!!
+Using negitive renforcement training techiniques on Stan!!
+Oh no! Stan the Orange is no longer housebroken!!
+Using negitive renforcement training techiniques on Sooty!!
+The training had no effect on the animal...
+
+=========== Starting Day 0! ===========
+Anya the Clerk arrives on Day 0
+Zander the Trainer arrives on Day 0
+
+==> OBSERVATION: Anya the clerk has arrived at the store.
+
+
+==> OBSERVATION: Zander the trainer has arrived at the store.
+
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $0.0 in the register.
+The register's balance has fallen below $200.
+Anya has gone to the bank to aquire a small loan of $1000.
+The debt to the bank is now 1000.0
+
+==> OBSERVATION: Anya the clerk has gone to the Bank. The total value of the register is now: 1000.0
+
+The clerk is doing inventory.
+
+==> OBSERVATION: Anya the clerk has just done inventory. The total value of the inventory is now: 1629.0
+
+
+==> OBSERVATION: Anya the clerk has done inventory. The total number of pets + supplies is: 21
+
+The current inventory's total value is: $1629.0
+
+ ====> The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering buying a pet.
+The customer has added insurance to the pet for $50.0
+The customer has added a pre-paid vet check for $50.0
+A customer has just purchased a pet for $1012.0
+A customer is considering buying a pet.
+The customer has added a microchip to the pet for $50.0
+The customer has added insurance to the pet for $50.0
+The customer has added a pre-paid vet check for $50.0
+The customer has added a pre-paid vet check for $100.0
+A customer has just purchased a pet for $930.0
+A customer is considering buying a pet.
+A customer has just purchased a pet for $742.0
+A customer is considering buying a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering buying a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+The customer has added a microchip to the pet for $50.0
+The customer has added insurance to the pet for $50.0
+The customer has added a pre-paid vet check for $50.0
+The customer has added a pre-paid vet check for $100.0
+A customer has just purchased a pet for $927.2
+A customer is considering buying a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $35.1
+A customer is considering buying a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer is considering buying a FNPS Cat Wet Food (TM)
+A customer has just purchased a(n) FNPS Cat Wet Food (TM) for $35.0
+A customer is considering buying a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $23.400000000000002
+A customer is considering buying a FNPS Cat Leash (TM)
+A customer has just purchased a(n) FNPS Cat Leash (TM) for $32.0
+A customer is considering buying a FNPS Dog Toy (TM)
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $32.0
+A customer is considering buying a FNPS Cat Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Toy (TM) for $24.3
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering buying a pet.
+The customer has added a pre-paid vet check for $50.0
+A customer has just purchased a pet for $882.0
+A customer is considering buying a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+The customer has added a microchip to the pet for $50.0
+The customer has added insurance to the pet for $50.0
+The customer has added a pre-paid vet check for $50.0
+A customer has just purchased a pet for $970.8000000000002
+A customer is considering buying a pet.
+The customer has added insurance to the pet for $50.0
+A customer has just purchased a pet for $950.0
+A customer is considering buying a FNPS Cat Litter (TM)
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $25.0
+A customer is considering buying a FNPS Bird Treats (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Treats (TM) for $27.0
+A customer is considering buying a FNPS Cat Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer is considering buying a FNPS Bird Toy (TM)
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $27.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering buying a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering buying a pet.
+The customer has added a pre-paid vet check for $50.0
+The customer has added a pre-paid vet check for $100.0
+A customer has just purchased a pet for $702.0
+A customer is considering buying a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $19.8
+A customer is considering buying a FNPS Cat Leash (TM)
+A customer has just purchased a(n) FNPS Cat Leash (TM) for $22.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering buying a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+The customer has added a microchip to the pet for $50.0
+The customer has added insurance to the pet for $50.0
+The customer has added a pre-paid vet check for $50.0
+A customer has just purchased a pet for $868.2
+A customer is considering buying a FNPS Bird Leash (TM)
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $26.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+
+==> OBSERVATION: at the end of today, the total number of the customer visits is now: 9
+
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+
+==> OBSERVATION: Anya the clerk has left at the store.
+
+
+==> OBSERVATION: Zander the trainer has left at the store.
+
+The store is now closed.
+
+=========== Starting Day 1! ===========
+Kendall is feeling sick today and will not come in....
+Anya the Clerk arrives on Day 1
+Zander the Trainer arrives on Day 1
+
+==> OBSERVATION: Anya the clerk has arrived at the store.
+
+
+==> OBSERVATION: Zander the trainer has arrived at the store.
+
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $9312.8 in the register.
+
+==> OBSERVATION: Anya the clerk has just counted the register. The total value of the register is: $9312.8
+
+The clerk is doing inventory.
+
+==> OBSERVATION: Anya the clerk has just done inventory. The total value of the inventory is now: 0.0
+
+
+==> OBSERVATION: Anya the clerk has done inventory. The total number of pets + supplies is: 0
+
+There are no more toys in the store!
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $0.0
+
+==> OBSERVATION: Anya the clerk has placed an order. The total number of the items is now: 18
+
+
+ ====> The store is now open for customers!
+Customer 1 has just entered the store.
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+
+==> OBSERVATION: at the end of today, the total number of the customer visits is now: 15
+
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+
+==> OBSERVATION: Anya the clerk has left at the store.
+
+
+==> OBSERVATION: Zander the trainer has left at the store.
+
+The store is now closed.
+
+=========== Starting Day 2! ===========
+Max the Clerk arrives on Day 2
+Evan the Trainer arrives on Day 2
+
+==> OBSERVATION: Max the clerk has arrived at the store.
+
+
+==> OBSERVATION: Evan the trainer has arrived at the store.
+
+Whiskeyhas arrived.
+Olivehas arrived.
+FNPS Bird Dry Food (TM)has arrived.
+
+==> OBSERVATION: New items have arrived! The total amount added is now: 3
+
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $8021.799999999999 in the register.
+
+==> OBSERVATION: Max the clerk has just counted the register. The total value of the register is: $8021.799999999999
+
+The clerk is doing inventory.
+
+==> OBSERVATION: Max the clerk has just done inventory. The total value of the inventory is now: 76.0
+
+
+==> OBSERVATION: Max the clerk has done inventory. The total number of pets + supplies is: 3
+
+There are no more toys in the store!
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $76.0
+
+==> OBSERVATION: Max the clerk has placed an order. The total number of the items is now: 30
+
+
+ ====> The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering buying a pet.
+A customer has just purchased a pet for $714.0
+A customer is considering buying a FNPS Bird Dry Food (TM)
+Evanthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $35.1
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering buying a pet.
+The customer has added a pre-paid vet check for $50.0
+The customer has added a pre-paid vet check for $100.0
+A customer has just purchased a pet for $942.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+
+==> OBSERVATION: at the end of today, the total number of the customer visits is now: 21
+
+Evan the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Evan the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+
+==> OBSERVATION: Max the clerk has left at the store.
+
+
+==> OBSERVATION: Evan the trainer has left at the store.
+
+The store is now closed.
+
+=========== Starting Day 3! ===========
+Anya the Clerk arrives on Day 3
+Evan the Trainer arrives on Day 3
+
+==> OBSERVATION: Anya the clerk has arrived at the store.
+
+
+==> OBSERVATION: Evan the trainer has arrived at the store.
+
+Prince Schnookumshas arrived.
+Olivehas arrived.
+Nalahas arrived.
+Mistyhas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Cat Wet Food (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Stanhas arrived.
+Honeyhas arrived.
+FNPS Cat Leash (TM)has arrived.
+FNPS Cat Leash (TM)has arrived.
+
+==> OBSERVATION: New items have arrived! The total amount added is now: 15
+
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $8193.9 in the register.
+
+==> OBSERVATION: Anya the clerk has just counted the register. The total value of the register is: $8193.9
+
+The clerk is doing inventory.
+
+==> OBSERVATION: Anya the clerk has just done inventory. The total value of the inventory is now: 1184.0
+
+
+==> OBSERVATION: Anya the clerk has done inventory. The total number of pets + supplies is: 12
+
+There are no more toys in the store!
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $1184.0
+
+==> OBSERVATION: Anya the clerk has placed an order. The total number of the items is now: 33
+
+
+ ====> The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering buying a pet.
+Evan the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+The customer has added insurance to the pet for $50.0
+The customer has added a pre-paid vet check for $50.0
+The customer has added a pre-paid vet check for $100.0
+The customer has added a pre-paid vet check for $150.0
+A customer has just purchased a pet for $812.0
+A customer is considering buying a pet.
+Evan the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering buying a pet.
+Evan the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+The customer has added a microchip to the pet for $50.0
+The customer has added a pre-paid vet check for $50.0
+The customer has added a pre-paid vet check for $100.0
+A customer has just purchased a pet for $817.8000000000001
+A customer is considering buying a pet.
+Evan the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+The customer has added insurance to the pet for $50.0
+A customer has just purchased a pet for $647.6
+A customer is considering buying a FNPS Bird Leash (TM)
+Evanthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $29.7
+A customer is considering buying a FNPS Cat Litter (TM)
+Evanthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $22.5
+A customer is considering buying a FNPS Cat Leash (TM)
+A customer has just purchased a(n) FNPS Cat Leash (TM) for $31.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering buying a pet.
+Evan the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering buying a pet.
+A customer has just purchased a pet for $808.0
+A customer is considering buying a FNPS Cat Wet Food (TM)
+A customer has just purchased a(n) FNPS Cat Wet Food (TM) for $32.0
+A customer is considering buying a FNPS Cat Leash (TM)
+Evanthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Leash (TM) for $24.3
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering buying a pet.
+Evan the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $691.2
+A customer is considering buying a FNPS Cat Litter (TM)
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $38.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering buying a pet.
+The customer has added insurance to the pet for $50.0
+A customer has just purchased a pet for $712.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+
+==> OBSERVATION: at the end of today, the total number of the customer visits is now: 28
+
+Evan the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Evan the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+
+==> OBSERVATION: Anya the clerk has left at the store.
+
+
+==> OBSERVATION: Evan the trainer has left at the store.
+
+The store is now closed.
+
+=========== Final Summary ===========
+
+The total inventory value is: $0.0
+
+The total sales value is: $14670.000000000002
+
+All sales made: 
+=> Bailey was sold on day 0 for $1012.0
+=> Whiskey was sold on day 0 for $930.0
+=> Coco was sold on day 0 for $742.0
+=> Whiskey was sold on day 0 for $927.2
+=> FNPS Cat Litter (TM) was sold on day 0 for $35.1
+=> FNPS Cat Wet Food (TM) was sold on day 0 for $35.0
+=> FNPS Dog Dry Food (TM) was sold on day 0 for $23.400000000000002
+=> FNPS Cat Leash (TM) was sold on day 0 for $32.0
+=> FNPS Dog Toy (TM) was sold on day 0 for $32.0
+=> FNPS Cat Toy (TM) was sold on day 0 for $24.3
+=> Crumble was sold on day 0 for $882.0
+=> Pickle was sold on day 0 for $970.8000000000002
+=> Honey was sold on day 0 for $950.0
+=> FNPS Cat Litter (TM) was sold on day 0 for $25.0
+=> FNPS Bird Treats (TM) was sold on day 0 for $27.0
+=> FNPS Bird Toy (TM) was sold on day 0 for $27.0
+=> Coco was sold on day 0 for $702.0
+=> FNPS Cat Litter (TM) was sold on day 0 for $19.8
+=> FNPS Cat Leash (TM) was sold on day 0 for $22.0
+=> Prince Schnookums was sold on day 0 for $868.2
+=> FNPS Bird Leash (TM) was sold on day 0 for $26.0
+=> Whiskey was sold on day 1 for $714.0
+=> FNPS Bird Dry Food (TM) was sold on day 1 for $35.1
+=> Olive was sold on day 1 for $942.0
+=> Prince Schnookums was sold on day 1 for $812.0
+=> Misty was sold on day 1 for $817.8000000000001
+=> Honey was sold on day 2 for $647.6
+=> FNPS Bird Leash (TM) was sold on day 1 for $29.7
+=> FNPS Cat Litter (TM) was sold on day 1 for $22.5
+=> FNPS Cat Leash (TM) was sold on day 2 for $31.0
+=> Nala was sold on day 1 for $808.0
+=> FNPS Cat Wet Food (TM) was sold on day 1 for $32.0
+=> FNPS Cat Leash (TM) was sold on day 2 for $24.3
+=> Olive was sold on day 1 for $691.2
+=> FNPS Cat Litter (TM) was sold on day 1 for $38.0
+=> Stan was sold on day 2 for $712.0
+
+All sick pets left: 
+
+The final count of the register is: $12149.0
+
+The total money added to the register from GoToBank(): $1000.0

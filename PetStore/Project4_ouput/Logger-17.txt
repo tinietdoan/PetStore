@@ -1,0 +1,26 @@
+
+This is the Logger for the user interaction
+
+==> Trent the clerk has arrived at the Northside branch
+
+==> Quinlan the trainer has arrived at the Northside branch
+
+==> Corben the clerk has arrived at the Southside branch
+
+==> Kendall the trainer has arrived at the Southside branch
+
+ ==> Trent the clerk has counted the Northside register. The total value of the register is: $-602.5999999999985
+
+==> Trent the clerk has left Northside to go to the Bank. The total value of the register is now: 397.40000000000146
+
+ ==> Corben the clerk has counted the Southside register. The total value of the register is: $-2086.5999999999985
+
+==> Corben the clerk has left Northside to go to the Bank. The total value of the register is now: 913.4000000000015
+
+ ==> Trent the clerk has left at the Northside store.
+
+ ==> Quinlan the trainer has left at the Northside store.
+
+ ==> Corben the clerk has left at the Southside store.
+
+ ==> Kendall the trainer has left at the Southside store.

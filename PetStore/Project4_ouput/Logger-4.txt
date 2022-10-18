@@ -1,0 +1,28 @@
+
+==> Trent the clerk has arrived at the Northside branch
+
+==> Zander the trainer has arrived at the Northside branch
+
+==> Corben the clerk has arrived at the Southside branch
+
+==> Kendall the trainer has arrived at the Southside branch
+
+
+** NORTHSIDE LOG **
+
+ ==> Trent the clerk has counted the Northside register. The total value of the register is: $12958.400000000001
+
+ ==> Trent the clerk has left at the Northside store.
+
+ ==> Zander the trainer has left at the Northside store.
+
+
+** SOUTHSIDE LOG **
+
+ ==> Corben the clerk has counted the Southside register. The total value of the register is: $11824.400000000001
+
+ ==> At the end of today, the total number of the customer visits is now: 23
+
+ ==> Corben the clerk has left at the Southside store.
+
+ ==> Kendall the trainer has left at the Southside store.

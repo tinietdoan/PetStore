@@ -1,0 +1,264 @@
+=========== Starting User Interaction on Day 16! ===========
+Quinlan is feeling sick today and will not come in....
+Corben is feeling sick today and will not come in....
+Anya is feeling sick today and will not come in....
+Corben is feeling sick today and will not come in....
+Trent the Clerk arrives on Day 32 at the Northside branch
+Evan the Trainer arrives on Day 32 at the Northside branch
+Max the Clerk arrives on Day 32 at the Southside branch
+Kendall the Trainer arrives on Day 32 at the Southside branch
+Today's trainer is now feeding the resident animals.
+Trent the clerk is counting the register...
+There's currently $-1883.199999999997 in the register.
+The register's balance is -1883.199999999997 which is below $200.
+Trent the clerk has gone to the bank to aquire a small loan of $1000.
+The debt to the bank is now 5000.0
+The register's balance is -883.1999999999971 which is below $200.
+Trent the clerk has gone to the bank to aquire a small loan of $1000.
+The debt to the bank is now 6000.0
+The register's balance is 116.80000000000291 which is below $200.
+Trent the clerk has gone to the bank to aquire a small loan of $1000.
+The debt to the bank is now 7000.0
+The clerk is doing inventory.
+There are no more toys in the store!
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $0.0
+Evan the trainer is going to train the animals!!
+Today's trainer is now feeding the resident animals.
+Trent the clerk is counting the register...
+There's currently $-1592.6000000000004 in the register.
+The register's balance is -1592.6000000000004 which is below $200.
+Trent the clerk has gone to the bank to aquire a small loan of $1000.
+The debt to the bank is now 21000.0
+The register's balance is -592.6000000000004 which is below $200.
+Trent the clerk has gone to the bank to aquire a small loan of $1000.
+The debt to the bank is now 22000.0
+The clerk is doing inventory.
+There are no more toys in the store!
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $0.0
+Kendall the trainer is going to train the animals!!
+
+ Welcome customer!
+
+Which store would you like to visit today?
+(1) Northside Location
+(2) Southside Location
+2
+2
+Welcome to the Southside Location!
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+1
+
+ ==> The current employee assisting you is Max the clerk
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+2
+
+ ==> Max the clerk has checked the time. It is currently 11:24:32
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+3
+
+ ==> Kendall the trainer is happy to give you the inventory.
+=> Here are all the remaining items in stock: 
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+4
+
+ ==> Let's first take a looka at the inventory
+=> Here are all the remaining items in stock: 
+Sorry, there are no more items left in stock.
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+5
+
+ ==>Let's first take a looka at the inventory
+=> Here are all the remaining items in stock: 
+Sorry there are no more items left in stock to buy... 
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+6
+Which store would you like to visit today?
+(1) Northside Location
+(2) Southside Location
+2
+2
+Welcome to the Southside Location!
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+1
+
+ ==> The current employee assisting you is Max the clerk
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+2
+
+ ==> Max the clerk has checked the time. It is currently 11:24:44
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+3
+
+ ==> Kendall the trainer is happy to give you the inventory.
+=> Here are all the remaining items in stock: 
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+4
+
+ ==> Let's first take a looka at the inventory
+=> Here are all the remaining items in stock: 
+Sorry, there are no more items left in stock.
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+5
+
+ ==>Let's first take a looka at the inventory
+=> Here are all the remaining items in stock: 
+Sorry there are no more items left in stock to buy... 
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+6
+Which store would you like to visit today?
+(1) Northside Location
+(2) Southside Location
+3
+3
+ERROR: Please type 1 or 2
+Which store would you like to visit today?
+(1) Northside Location
+(2) Southside Location
+2
+2
+Welcome to the Southside Location!
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+7
+This is not a valid input. Try again...
+
+(Southside location)
+Please select an action by typing the corresponding character:
+(1) Ask the assisting employee their name
+(2) Ask for the time of day
+(3) Request the current store inventory
+(4) Ask detail about a certain item
+(5) Buy an item
+(6) Select a different store location
+(0) Exit store (this will end user interactions)
+0
+You have finished shopping. Have a good day!
+Evan the trainer is cleaning the animal's cages...
+Trent the clerk is vacuuming the store...
+Evan the trainer has left for the day.
+Trent the clerk has locked up and left for the day.
+The store is now closed.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+

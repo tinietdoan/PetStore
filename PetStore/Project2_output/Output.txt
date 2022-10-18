@@ -1,0 +1,2004 @@
+
+=========== Starting Day 0! ===========
+Anya the Clerk arrives on Day 0
+Zander the Trainer arrives on Day 0
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $0.0 in the register.
+The register's balance has fallen below $200.
+Anya has gone to the bank to aquire a small loan of $1000.
+The debt to the bank is now 1000.0
+The current inventory's total value is: $1213.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $396.90000000000003
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $387.0
+A customer has just purchased a pet for $442.0
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $369.0
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $324.0
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $25.2
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $39.0
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $30.0
+A customer is considering by a FNPS Bird Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $19.8
+A customer is considering by a FNPS Bird Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $31.5
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $29.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $346.0
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $385.2
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $18.900000000000002
+A customer has just purchased a(n) FNPS Dog Wet Food (TM) for $39.0
+A customer is considering by a FNPS Dog Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $36.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $458.0
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $29.0
+A customer is considering by a FNPS Dog Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $297.0
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $21.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $37.0
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+Customer 10 has just entered the store.
+Customer 10 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 1! ===========
+Anya the Clerk arrives on Day 1
+Kendall the Trainer arrives on Day 1
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $4760.5 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $0.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 2! ===========
+Max the Clerk arrives on Day 2
+Kendall the Trainer arrives on Day 2
+Pheonixhas arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $3454.5 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $290.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $319.5
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $29.0
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+A customer is considering by a FNPS Dog Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $33.300000000000004
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $25.2
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $30.6
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 3! ===========
+Max the Clerk arrives on Day 3
+Kendall the Trainer arrives on Day 3
+Stanhas arrived.
+Albushas arrived.
+Sootyhas arrived.
+Whiskeyhas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+Stanhas arrived.
+Rosiehas arrived.
+Sootyhas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Bird Leash (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $3101.1 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $782.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $385.2
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $424.8
+A customer has just purchased a pet for $404.0
+A customer has just purchased a pet for $433.0
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $23.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $27.0
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $27.900000000000002
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $343.8
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $300.6
+A customer is considering by a FNPS Dog Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $33.300000000000004
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $21.6
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $37.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $294.3
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 4! ===========
+Max the Clerk arrives on Day 4
+Zander the Trainer arrives on Day 4
+Baileyhas arrived.
+Olivehas arrived.
+Bellahas arrived.
+Whiskeyhas arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Bird Wet Food (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+Mistyhas arrived.
+Rosiehas arrived.
+Cocohas arrived.
+FNPS Dog Leash (TM)has arrived.
+Crumblehas arrived.
+Stanhas arrived.
+FNPS Bird Wet Food (TM)has arrived.
+FNPS Dog Dry Food (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Misty the Lab has fallen ill...
+Max the clerk is counting the register...
+There's currently $5341.600000000001 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $1084.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $420.0
+A customer has just purchased a pet for $367.0
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $443.0
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $331.2
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $22.0
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $26.0
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $35.0
+A customer is considering by a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $19.8
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $436.5
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $472.0
+A customer is considering by a FNPS Bird Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $27.0
+A customer is considering by a FNPS Bird Wet Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $376.0
+A customer is considering by a FNPS Bird Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $19.8
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer has just purchased a pet for $359.0
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $35.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 5! ===========
+Anya the Clerk arrives on Day 5
+Zander the Trainer arrives on Day 5
+Honeyhas arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $8706.900000000001 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $270.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $343.8
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $26.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $32.4
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 6! ===========
+Max the Clerk arrives on Day 6
+Kendall the Trainer arrives on Day 6
+FNPS Bird Wet Food (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Olivehas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Bird Wet Food (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $8037.100000000001 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $269.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $381.6
+A customer is considering by a FNPS Bird Wet Food (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $23.400000000000002
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $25.0
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $34.0
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $25.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $27.900000000000002
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $35.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $22.0
+Customer 3 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 7! ===========
+Max the Clerk arrives on Day 7
+Kendall the Trainer arrives on Day 7
+Samhas arrived.
+Mistyhas arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Dog Dry Food (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Baileyhas arrived.
+Samhas arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $8064.000000000001 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $560.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $472.0
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $356.40000000000003
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $22.0
+A customer is considering by a FNPS Dog Dry Food (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $27.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $436.5
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $29.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $414.0
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $23.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 8! ===========
+Max the Clerk arrives on Day 8
+Kendall the Trainer arrives on Day 8
+Baileyhas arrived.
+Albushas arrived.
+Crumblehas arrived.
+Bellahas arrived.
+Honeyhas arrived.
+Pheonixhas arrived.
+Cleohas arrived.
+FNPS Cat Litter (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $9281.900000000001 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $920.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $396.90000000000003
+A customer has just purchased a pet for $491.0
+A customer has just purchased a pet for $476.0
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $443.7
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $31.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $397.0
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $322.2
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $368.1
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+Customer 10 has just entered the store.
+Customer 10 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 9! ===========
+Anya the Clerk arrives on Day 9
+Zander the Trainer arrives on Day 9
+Picklehas arrived.
+Crumblehas arrived.
+Cleohas arrived.
+FNPS Dog Dry Food (TM)has arrived.
+FNPS Dog Wet Food (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $12126.800000000003 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $433.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $422.1
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $29.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $419.0
+A customer is considering by a FNPS Dog Wet Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Wet Food (TM) for $25.2
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $433.8
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+While cleaning, Misty the Lab has escaped!
+After some time, Zander the trainer has caught the escaped animal!
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 10! ===========
+Anya the Clerk arrives on Day 10
+Kendall the Trainer arrives on Day 10
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $12767.900000000003 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $94.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $22.0
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $31.5
+A customer is considering by a FNPS Bird Dry Food (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $18.0
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $21.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+A customer is considering by a FNPS Dog Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $27.900000000000002
+A customer is considering by a FNPS Dog Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $26.1
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $32.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $38.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 11! ===========
+Anya the Clerk arrives on Day 11
+Kendall the Trainer arrives on Day 11
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Whiskeyhas arrived.
+Samhas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+Tedhas arrived.
+Pheonixhas arrived.
+Samhas arrived.
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $11290.400000000003 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $1080.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $444.0
+A customer has just purchased a pet for $379.0
+A customer has just purchased a pet for $322.0
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $21.0
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $24.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $27.0
+A customer is considering by a FNPS Bird Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $27.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $349.0
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $36.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $39.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $418.0
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $24.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 12! ===========
+Max the Clerk arrives on Day 12
+Kendall the Trainer arrives on Day 12
+Honeyhas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Tedhas arrived.
+Picklehas arrived.
+Prince Schnookumshas arrived.
+FNPS Bird Dry Food (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Pickle the Lab has fallen ill...
+While feeding, Misty the Lab has become healthy!
+Max the clerk is counting the register...
+There's currently $12981.400000000003 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $753.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $467.0
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $282.6
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $20.7
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $25.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $328.0
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $30.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $445.0
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $29.0
+Customer 3 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 13! ===========
+Max the Clerk arrives on Day 13
+Zander the Trainer arrives on Day 13
+Bellahas arrived.
+Pheonixhas arrived.
+Bellahas arrived.
+Honeyhas arrived.
+Crumblehas arrived.
+FNPS Dog Wet Food (TM)has arrived.
+FNPS Dog Wet Food (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Honey the Pigeon has fallen ill...
+While feeding, Pickle the Lab has become healthy!
+Max the clerk is counting the register...
+There's currently $13961.700000000004 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $874.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $316.0
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $344.7
+A customer is considering by a FNPS Dog Wet Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer is considering by a FNPS Dog Wet Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Wet Food (TM) for $30.6
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $319.0
+A customer has just purchased a(n) FNPS Dog Wet Food (TM) for $33.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $449.0
+A customer is considering by a FNPS Dog Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $24.3
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer has just purchased a pet for $384.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 14! ===========
+Anya the Clerk arrives on Day 14
+Kendall the Trainer arrives on Day 14
+Pheonixhas arrived.
+FNPS Cat Litter (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $15781.300000000005 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $127.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $386.1
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $25.2
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+Customer 3 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+While cleaning, Honey the Pigeon has escaped!
+After some time, Kendall the trainer has caught the escaped animal!
+Kendall the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 15! ===========
+Anya the Clerk arrives on Day 15
+Zander the Trainer arrives on Day 15
+Crumblehas arrived.
+Sootyhas arrived.
+Baileyhas arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Leash (TM)has arrived.
+Olivehas arrived.
+Albushas arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Wet Food (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Albus the Pigeon has fallen ill...
+While feeding, Honey the Pigeon has become healthy!
+Anya the clerk is counting the register...
+There's currently $14943.600000000006 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $1066.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $297.90000000000003
+A customer has just purchased a pet for $460.0
+A customer has just purchased a pet for $393.0
+A customer is considering by a FNPS Bird Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $20.0
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $36.0
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $23.0
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $39.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $339.3
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $36.0
+A customer is considering by a FNPS Dog Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $29.7
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $387.90000000000003
+A customer is considering by a FNPS Dog Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $26.1
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $38.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 16! ===========
+Max the Clerk arrives on Day 16
+Kendall the Trainer arrives on Day 16
+FNPS Dog Leash (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Honeyhas arrived.
+Cleohas arrived.
+Mistyhas arrived.
+Cocohas arrived.
+FNPS Dog Toy (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Cleo the Tabby has fallen ill...
+While feeding, Albus the Pigeon has become healthy!
+Max the clerk is counting the register...
+There's currently $16730.500000000004 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $893.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $335.0
+A customer has just purchased a pet for $458.0
+A customer is considering by a FNPS Dog Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $18.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $22.0
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $28.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $320.0
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $27.900000000000002
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $38.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $408.0
+A customer is considering by a FNPS Dog Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a FNPS Dog Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+A customer is considering by a FNPS Dog Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $28.8
+Customer 5 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 17! ===========
+Max the Clerk arrives on Day 17
+Kendall the Trainer arrives on Day 17
+FNPS Bird Leash (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Dog Wet Food (TM)has arrived.
+Prince Schnookumshas arrived.
+Rosiehas arrived.
+Mistyhas arrived.
+Picklehas arrived.
+FNPS Dog Dry Food (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Cleo the Tabby has become healthy!
+Max the clerk is counting the register...
+There's currently $17728.200000000004 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $815.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $311.40000000000003
+A customer has just purchased a pet for $468.0
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $278.1
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $25.0
+A customer is considering by a FNPS Dog Wet Food (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $37.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $335.0
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $35.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $440.0
+A customer is considering by a FNPS Dog Wet Food (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Wet Food (TM) for $34.2
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 18! ===========
+Max the Clerk arrives on Day 18
+Zander the Trainer arrives on Day 18
+Pheonixhas arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Albushas arrived.
+FNPS Bird Wet Food (TM)has arrived.
+Picklehas arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $18880.900000000005 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $716.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $375.3
+A customer has just purchased a pet for $452.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $35.0
+A customer is considering by a FNPS Bird Wet Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $21.6
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $30.6
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $36.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $324.0
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $23.400000000000002
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $32.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 19! ===========
+Anya the Clerk arrives on Day 19
+Kendall the Trainer arrives on Day 19
+FNPS Bird Wet Food (TM)has arrived.
+Samhas arrived.
+FNPS Dog Leash (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $19693.800000000003 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $211.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $344.0
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $29.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $22.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 20! ===========
+Max the Clerk arrives on Day 20
+Kendall the Trainer arrives on Day 20
+Bellahas arrived.
+Baileyhas arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+Bellahas arrived.
+Samhas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $19026.800000000003 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $808.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $394.0
+A customer has just purchased a pet for $314.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $21.0
+A customer is considering by a FNPS Bird Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $27.900000000000002
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $19.8
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $37.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $323.0
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $22.0
+A customer is considering by a FNPS Cat Litter (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $26.1
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer has just purchased a pet for $320.0
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $18.0
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 21! ===========
+Max the Clerk arrives on Day 21
+Zander the Trainer arrives on Day 21
+Tedhas arrived.
+Crumblehas arrived.
+Rosiehas arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Cocohas arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $19893.600000000002 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $758.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $384.3
+A customer has just purchased a pet for $473.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $28.0
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $32.0
+A customer is considering by a FNPS Bird Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $31.5
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $296.1
+A customer is considering by a FNPS Bird Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $22.5
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $435.0
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $26.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 22! ===========
+Max the Clerk arrives on Day 22
+Zander the Trainer arrives on Day 22
+Samhas arrived.
+Freddiehas arrived.
+Mistyhas arrived.
+FNPS Cat Litter (TM)has arrived.
+Sootyhas arrived.
+Today's trainer is now feeding the resident animals.
+Max the clerk is counting the register...
+There's currently $21370.0 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $535.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $440.1
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $415.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $34.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $329.40000000000003
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $435.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 23! ===========
+Anya the Clerk arrives on Day 23
+Kendall the Trainer arrives on Day 23
+Honeyhas arrived.
+Mistyhas arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Honey the Pitbull has fallen ill...
+Anya the clerk is counting the register...
+There's currently $22931.5 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $353.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $374.0
+A customer is considering by a FNPS Bird Dry Food (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+A customer is considering by a FNPS Dog Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $18.0
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $22.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a FNPS Bird Dry Food (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $24.3
+A customer is considering by a FNPS Dog Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $29.7
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a FNPS Dog Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $33.300000000000004
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+While cleaning, Honey the Pitbull has escaped!
+After some time, Kendall the trainer has caught the escaped animal!
+Kendall the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 24! ===========
+Anya the Clerk arrives on Day 24
+Zander the Trainer arrives on Day 24
+Tedhas arrived.
+Mistyhas arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Dog Dry Food (TM)has arrived.
+FNPS Dog Dry Food (TM)has arrived.
+Cleohas arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+Anya the clerk is counting the register...
+There's currently $22936.8 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $323.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $290.7
+A customer has just purchased a pet for $453.0
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $28.0
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $32.0
+A customer is considering by a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $30.6
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $27.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $408.6
+A customer is considering by a FNPS Bird Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer is considering by a FNPS Dog Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $30.6
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $21.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer is considering by a FNPS Bird Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $31.5
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $34.2
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 25! ===========
+Anya the Clerk arrives on Day 25
+Kendall the Trainer arrives on Day 25
+FNPS Bird Leash (TM)has arrived.
+FNPS Bird Wet Food (TM)has arrived.
+Freddiehas arrived.
+Whiskeyhas arrived.
+Mistyhas arrived.
+Sootyhas arrived.
+Pheonixhas arrived.
+FNPS Bird Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Pheonix the Pigeon has fallen ill...
+While feeding, Honey the Pitbull has become healthy!
+Anya the clerk is counting the register...
+There's currently $23248.999999999996 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $525.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $368.1
+A customer has just purchased a pet for $457.0
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $356.40000000000003
+A customer is considering by a FNPS Bird Leash (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $27.0
+A customer is considering by a FNPS Bird Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $362.0
+A customer has just purchased a(n) FNPS Bird Wet Food (TM) for $28.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $353.0
+A customer is considering by a FNPS Bird Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+Customer 3 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 26! ===========
+Max the Clerk arrives on Day 26
+Kendall the Trainer arrives on Day 26
+Baileyhas arrived.
+Cleohas arrived.
+Crumblehas arrived.
+FNPS Cat Litter (TM)has arrived.
+Samhas arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Bailey the Russian Blue has fallen ill...
+Max the clerk is counting the register...
+There's currently $24661.499999999996 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $478.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $372.6
+A customer is considering by a pet.
+Kendall the trainer has offered a 10% discount to the customer for the pet.
+The customer has accepted the discount.
+A customer has just purchased a pet for $396.0
+A customer is considering by a FNPS Bird Toy (TM)
+Kendallthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $23.400000000000002
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $35.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $497.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $27.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $29.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Kendall the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Kendall the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 27! ===========
+Max the Clerk arrives on Day 27
+Zander the Trainer arrives on Day 27
+Stanhas arrived.
+Tedhas arrived.
+FNPS Bird Toy (TM)has arrived.
+FNPS Dog Toy (TM)has arrived.
+Prince Schnookumshas arrived.
+Honeyhas arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Pheonix the Pigeon has become healthy!
+Max the clerk is counting the register...
+There's currently $25530.499999999996 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $1160.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $391.0
+A customer has just purchased a pet for $340.0
+A customer has just purchased a pet for $485.0
+A customer is considering by a FNPS Bird Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Dog Toy (TM) for $27.0
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $27.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a pet for $498.0
+A customer is considering by a FNPS Bird Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $29.7
+A customer is considering by a FNPS Bird Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $468.0
+A customer is considering by a FNPS Dog Leash (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $27.900000000000002
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a FNPS Bird Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+A customer is considering by a FNPS Bird Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $24.0
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Customer 8 has just entered the store.
+Customer 8 has now left the store.
+Customer 9 has just entered the store.
+Customer 9 has now left the store.
+Customer 10 has just entered the store.
+Customer 10 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 28! ===========
+Max the Clerk arrives on Day 28
+Zander the Trainer arrives on Day 28
+Whiskeyhas arrived.
+FNPS Cat Litter (TM)has arrived.
+Bellahas arrived.
+FNPS Dog Leash (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Whiskey the Russian Blue has fallen ill...
+Max the clerk is counting the register...
+There's currently $27812.1 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $297.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer has just purchased a pet for $312.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $25.0
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $28.0
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer has just purchased a(n) FNPS Dog Leash (TM) for $23.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Customer 6 has just entered the store.
+Customer 6 has now left the store.
+Customer 7 has just entered the store.
+Customer 7 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Max the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Max the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Starting Day 29! ===========
+Anya the Clerk arrives on Day 29
+Zander the Trainer arrives on Day 29
+Honeyhas arrived.
+Cocohas arrived.
+FNPS Bird Leash (TM)has arrived.
+FNPS Dog Dry Food (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+FNPS Cat Litter (TM)has arrived.
+Prince Schnookumshas arrived.
+Freddiehas arrived.
+FNPS Dog Dry Food (TM)has arrived.
+FNPS Dog Wet Food (TM)has arrived.
+FNPS Bird Dry Food (TM)has arrived.
+FNPS Bird Toy (TM)has arrived.
+Today's trainer is now feeding the resident animals.
+While feeding, Honey the Pitbull has fallen ill...
+While feeding, Coco the Lab has fallen ill...
+Anya the clerk is counting the register...
+There's currently $27289.1 in the register.
+Oh no, there are missing items from the store! The clerk will place an order.
+The current inventory's total value is: $647.0
+The store is now open for customers!
+Customer 1 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer has just purchased a pet for $487.0
+A customer has just purchased a(n) FNPS Bird Leash (TM) for $28.0
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $21.6
+A customer is considering by a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Dog Wet Food (TM) for $25.0
+A customer is considering by a FNPS Bird Toy (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+Customer 1 has now left the store.
+Customer 2 has just entered the store.
+A customer is considering by a pet.
+Zander the trainer has offered a 10% discount to the customer for the pet.
+A customer is considering by a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $28.8
+A customer is considering by a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+A customer has just purchased a(n) FNPS Bird Dry Food (TM) for $33.0
+Customer 2 has now left the store.
+Customer 3 has just entered the store.
+A customer has just purchased a pet for $409.0
+A customer is considering by a FNPS Cat Litter (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Cat Litter (TM) for $21.6
+A customer has just purchased a(n) FNPS Bird Toy (TM) for $30.0
+Customer 3 has now left the store.
+Customer 4 has just entered the store.
+A customer is considering by a FNPS Dog Dry Food (TM)
+Zanderthe trainer has offered a 10% discount to the customer for the item.
+The customer has accepted the discount.
+A customer has just purchased a(n) FNPS Dog Dry Food (TM) for $24.3
+Customer 4 has now left the store.
+Customer 5 has just entered the store.
+Customer 5 has now left the store.
+Zander the trainer is cleaning the animal's cages...
+Anya the clerk is vacuuming the store...
+Zander the trainer has left for the day.
+Anya the clerk has locked up and left for the day.
+The store is now closed.
+
+=========== Final Summary ===========
+
+The total inventory value is: $0.0
+
+The total sales value is: $45056.39999999999
+
+All sales made: 
+=> Prince Schnookums was sold on day 0 for $396.90000000000003
+=> Freddie was sold on day 0 for $387.0
+=> Sooty was sold on day 0 for $442.0
+=> Stan was sold on day 0 for $369.0
+=> Olive was sold on day 0 for $324.0
+=> FNPS Cat Litter (TM) was sold on day 0 for $25.2
+=> FNPS Cat Litter (TM) was sold on day 0 for $39.0
+=> FNPS Dog Dry Food (TM) was sold on day 0 for $30.0
+=> FNPS Bird Leash (TM) was sold on day 0 for $19.8
+=> FNPS Bird Leash (TM) was sold on day 0 for $31.5
+=> FNPS Dog Toy (TM) was sold on day 0 for $29.0
+=> Sooty was sold on day 0 for $346.0
+=> Sooty was sold on day 0 for $385.2
+=> FNPS Cat Litter (TM) was sold on day 0 for $18.900000000000002
+=> FNPS Dog Wet Food (TM) was sold on day 0 for $39.0
+=> FNPS Dog Toy (TM) was sold on day 0 for $36.0
+=> Prince Schnookums was sold on day 0 for $458.0
+=> FNPS Bird Wet Food (TM) was sold on day 0 for $29.0
+=> Pickle was sold on day 0 for $297.0
+=> FNPS Bird Leash (TM) was sold on day 0 for $21.0
+=> FNPS Dog Toy (TM) was sold on day 0 for $37.0
+=> Pheonix was sold on day 1 for $319.5
+=> FNPS Bird Dry Food (TM) was sold on day 1 for $29.0
+=> FNPS Dog Toy (TM) was sold on day 1 for $33.300000000000004
+=> FNPS Cat Litter (TM) was sold on day 1 for $25.2
+=> FNPS Cat Litter (TM) was sold on day 1 for $30.6
+=> Stan was sold on day 1 for $385.2
+=> Sooty was sold on day 1 for $424.8
+=> Stan was sold on day 2 for $404.0
+=> Sooty was sold on day 2 for $433.0
+=> FNPS Bird Leash (TM) was sold on day 1 for $23.0
+=> FNPS Cat Litter (TM) was sold on day 1 for $27.0
+=> FNPS Bird Leash (TM) was sold on day 2 for $27.900000000000002
+=> Albus was sold on day 1 for $343.8
+=> Rosie was sold on day 2 for $300.6
+=> FNPS Dog Leash (TM) was sold on day 1 for $33.300000000000004
+=> FNPS Bird Leash (TM) was sold on day 2 for $21.6
+=> FNPS Bird Toy (TM) was sold on day 1 for $37.0
+=> Whiskey was sold on day 1 for $294.3
+=> Bailey was sold on day 1 for $420.0
+=> Bella was sold on day 1 for $367.0
+=> Coco was sold on day 2 for $443.0
+=> Stan was sold on day 3 for $331.2
+=> FNPS Dog Leash (TM) was sold on day 1 for $22.0
+=> FNPS Bird Wet Food (TM) was sold on day 1 for $26.0
+=> FNPS Dog Leash (TM) was sold on day 2 for $35.0
+=> FNPS Dog Dry Food (TM) was sold on day 3 for $19.8
+=> Olive was sold on day 1 for $436.5
+=> Crumble was sold on day 3 for $472.0
+=> FNPS Bird Dry Food (TM) was sold on day 1 for $27.0
+=> Rosie was sold on day 2 for $376.0
+=> FNPS Bird Toy (TM) was sold on day 1 for $19.8
+=> Whiskey was sold on day 1 for $359.0
+=> FNPS Bird Wet Food (TM) was sold on day 3 for $35.0
+=> Honey was sold on day 3 for $343.8
+=> FNPS Cat Litter (TM) was sold on day 4 for $26.0
+=> FNPS Cat Litter (TM) was sold on day 4 for $32.4
+=> Olive was sold on day 5 for $381.6
+=> FNPS Bird Wet Food (TM) was sold on day 3 for $23.400000000000002
+=> FNPS Bird Leash (TM) was sold on day 5 for $25.0
+=> FNPS Bird Wet Food (TM) was sold on day 5 for $34.0
+=> FNPS Dog Toy (TM) was sold on day 5 for $25.0
+=> FNPS Cat Litter (TM) was sold on day 4 for $27.900000000000002
+=> FNPS Bird Toy (TM) was sold on day 5 for $35.0
+=> FNPS Bird Dry Food (TM) was sold on day 5 for $22.0
+=> Sam was sold on day 5 for $472.0
+=> Bailey was sold on day 6 for $356.40000000000003
+=> FNPS Dog Leash (TM) was sold on day 5 for $22.0
+=> FNPS Dog Dry Food (TM) was sold on day 5 for $27.0
+=> Sam was sold on day 6 for $436.5
+=> FNPS Dog Toy (TM) was sold on day 5 for $29.0
+=> Misty was sold on day 5 for $414.0
+=> FNPS Bird Leash (TM) was sold on day 5 for $23.0
+=> Bailey was sold on day 5 for $396.90000000000003
+=> Crumble was sold on day 5 for $491.0
+=> Honey was sold on day 6 for $476.0
+=> Cleo was sold on day 7 for $443.7
+=> FNPS Cat Litter (TM) was sold on day 7 for $31.0
+=> Albus was sold on day 5 for $397.0
+=> Pheonix was sold on day 6 for $322.2
+=> Bella was sold on day 6 for $368.1
+=> Crumble was sold on day 7 for $422.1
+=> FNPS Dog Dry Food (TM) was sold on day 8 for $29.0
+=> Pickle was sold on day 6 for $419.0
+=> FNPS Dog Wet Food (TM) was sold on day 8 for $25.2
+=> Cleo was sold on day 7 for $433.8
+=> FNPS Cat Litter (TM) was sold on day 7 for $22.0
+=> FNPS Bird Leash (TM) was sold on day 8 for $31.5
+=> FNPS Bird Dry Food (TM) was sold on day 8 for $18.0
+=> FNPS Bird Toy (TM) was sold on day 9 for $21.0
+=> FNPS Dog Leash (TM) was sold on day 8 for $27.900000000000002
+=> FNPS Dog Toy (TM) was sold on day 9 for $26.1
+=> FNPS Cat Litter (TM) was sold on day 7 for $32.0
+=> FNPS Bird Toy (TM) was sold on day 8 for $38.0
+=> Whiskey was sold on day 9 for $444.0
+=> Ted was sold on day 10 for $379.0
+=> Sam was sold on day 10 for $322.0
+=> FNPS Dog Leash (TM) was sold on day 8 for $21.0
+=> FNPS Dog Toy (TM) was sold on day 8 for $24.0
+=> FNPS Cat Litter (TM) was sold on day 9 for $27.0
+=> FNPS Bird Toy (TM) was sold on day 9 for $27.0
+=> Sam was sold on day 9 for $349.0
+=> FNPS Bird Toy (TM) was sold on day 8 for $36.0
+=> FNPS Cat Litter (TM) was sold on day 9 for $39.0
+=> Pheonix was sold on day 10 for $418.0
+=> FNPS Bird Leash (TM) was sold on day 9 for $24.0
+=> Honey was sold on day 9 for $467.0
+=> Prince Schnookums was sold on day 11 for $282.6
+=> FNPS Bird Leash (TM) was sold on day 9 for $20.7
+=> FNPS Cat Litter (TM) was sold on day 9 for $25.0
+=> Ted was sold on day 10 for $328.0
+=> FNPS Bird Leash (TM) was sold on day 9 for $30.0
+=> Misty was sold on day 2 for $445.0
+=> FNPS Bird Dry Food (TM) was sold on day 11 for $29.0
+=> Pheonix was sold on day 10 for $316.0
+=> Crumble was sold on day 11 for $344.7
+=> FNPS Dog Wet Food (TM) was sold on day 11 for $30.6
+=> Bella was sold on day 10 for $319.0
+=> FNPS Dog Wet Food (TM) was sold on day 11 for $33.0
+=> Bella was sold on day 10 for $449.0
+=> FNPS Dog Toy (TM) was sold on day 12 for $24.3
+=> Pickle was sold on day 10 for $384.0
+=> Pheonix was sold on day 11 for $386.1
+=> FNPS Cat Litter (TM) was sold on day 13 for $25.2
+=> Crumble was sold on day 12 for $297.90000000000003
+=> Bailey was sold on day 12 for $460.0
+=> Honey was sold on day 10 for $393.0
+=> FNPS Bird Toy (TM) was sold on day 12 for $20.0
+=> FNPS Bird Leash (TM) was sold on day 13 for $36.0
+=> FNPS Dog Leash (TM) was sold on day 14 for $23.0
+=> FNPS Bird Toy (TM) was sold on day 14 for $39.0
+=> Sooty was sold on day 12 for $339.3
+=> FNPS Bird Toy (TM) was sold on day 12 for $36.0
+=> FNPS Dog Leash (TM) was sold on day 14 for $29.7
+=> Olive was sold on day 14 for $387.90000000000003
+=> FNPS Dog Leash (TM) was sold on day 13 for $26.1
+=> FNPS Bird Wet Food (TM) was sold on day 14 for $38.0
+=> Misty was sold on day 14 for $335.0
+=> Albus was sold on day 14 for $458.0
+=> FNPS Dog Leash (TM) was sold on day 13 for $18.0
+=> FNPS Cat Litter (TM) was sold on day 13 for $22.0
+=> FNPS Bird Toy (TM) was sold on day 14 for $28.0
+=> Honey was sold on day 14 for $320.0
+=> FNPS Cat Litter (TM) was sold on day 13 for $27.900000000000002
+=> FNPS Cat Litter (TM) was sold on day 15 for $38.0
+=> Coco was sold on day 14 for $408.0
+=> FNPS Dog Toy (TM) was sold on day 14 for $28.8
+=> Prince Schnookums was sold on day 15 for $311.40000000000003
+=> Misty was sold on day 16 for $468.0
+=> Cleo was sold on day 14 for $278.1
+=> FNPS Bird Leash (TM) was sold on day 14 for $25.0
+=> FNPS Dog Dry Food (TM) was sold on day 16 for $37.0
+=> Rosie was sold on day 15 for $335.0
+=> FNPS Bird Dry Food (TM) was sold on day 14 for $35.0
+=> Pickle was sold on day 16 for $440.0
+=> FNPS Dog Wet Food (TM) was sold on day 14 for $34.2
+=> Pheonix was sold on day 15 for $375.3
+=> Pickle was sold on day 17 for $452.0
+=> FNPS Cat Litter (TM) was sold on day 15 for $35.0
+=> FNPS Bird Wet Food (TM) was sold on day 16 for $21.6
+=> FNPS Cat Litter (TM) was sold on day 17 for $30.6
+=> FNPS Cat Litter (TM) was sold on day 17 for $36.0
+=> Albus was sold on day 16 for $324.0
+=> FNPS Cat Litter (TM) was sold on day 15 for $23.400000000000002
+=> FNPS Bird Toy (TM) was sold on day 17 for $32.0
+=> Sam was sold on day 18 for $344.0
+=> FNPS Bird Wet Food (TM) was sold on day 16 for $29.0
+=> FNPS Dog Leash (TM) was sold on day 18 for $22.0
+=> Bella was sold on day 17 for $394.0
+=> Bella was sold on day 18 for $314.0
+=> FNPS Cat Litter (TM) was sold on day 17 for $21.0
+=> FNPS Bird Toy (TM) was sold on day 17 for $27.900000000000002
+=> FNPS Bird Leash (TM) was sold on day 18 for $19.8
+=> FNPS Dog Toy (TM) was sold on day 19 for $37.0
+=> Bailey was sold on day 17 for $323.0
+=> FNPS Bird Toy (TM) was sold on day 17 for $22.0
+=> FNPS Cat Litter (TM) was sold on day 19 for $26.1
+=> Sam was sold on day 18 for $320.0
+=> FNPS Bird Leash (TM) was sold on day 18 for $18.0
+=> Ted was sold on day 19 for $384.3
+=> Rosie was sold on day 19 for $473.0
+=> FNPS Cat Litter (TM) was sold on day 19 for $28.0
+=> FNPS Dog Toy (TM) was sold on day 19 for $32.0
+=> FNPS Bird Dry Food (TM) was sold on day 20 for $31.5
+=> Crumble was sold on day 19 for $296.1
+=> FNPS Bird Toy (TM) was sold on day 19 for $22.5
+=> Coco was sold on day 20 for $435.0
+=> FNPS Bird Dry Food (TM) was sold on day 20 for $26.0
+=> Sam was sold on day 19 for $440.1
+=> Sooty was sold on day 21 for $415.0
+=> FNPS Cat Litter (TM) was sold on day 19 for $34.0
+=> Freddie was sold on day 19 for $329.40000000000003
+=> Misty was sold on day 19 for $435.0
+=> Misty was sold on day 20 for $374.0
+=> FNPS Dog Leash (TM) was sold on day 21 for $18.0
+=> FNPS Dog Toy (TM) was sold on day 22 for $22.0
+=> FNPS Bird Dry Food (TM) was sold on day 20 for $24.3
+=> FNPS Dog Toy (TM) was sold on day 22 for $29.7
+=> FNPS Dog Toy (TM) was sold on day 22 for $33.300000000000004
+=> Ted was sold on day 21 for $290.7
+=> Cleo was sold on day 23 for $453.0
+=> FNPS Dog Leash (TM) was sold on day 21 for $28.0
+=> FNPS Dog Leash (TM) was sold on day 22 for $32.0
+=> FNPS Dog Dry Food (TM) was sold on day 22 for $30.6
+=> FNPS Cat Litter (TM) was sold on day 23 for $27.0
+=> Misty was sold on day 21 for $408.6
+=> FNPS Dog Leash (TM) was sold on day 22 for $30.6
+=> FNPS Cat Litter (TM) was sold on day 23 for $21.0
+=> FNPS Bird Leash (TM) was sold on day 21 for $31.5
+=> FNPS Dog Dry Food (TM) was sold on day 22 for $34.2
+=> Freddie was sold on day 23 for $368.1
+=> Misty was sold on day 24 for $457.0
+=> Honey was sold on day 20 for $356.40000000000003
+=> FNPS Bird Leash (TM) was sold on day 22 for $27.0
+=> Whiskey was sold on day 23 for $362.0
+=> FNPS Bird Wet Food (TM) was sold on day 22 for $28.0
+=> Sooty was sold on day 24 for $353.0
+=> Cleo was sold on day 23 for $372.6
+=> Sam was sold on day 24 for $396.0
+=> FNPS Bird Toy (TM) was sold on day 24 for $23.400000000000002
+=> FNPS Cat Litter (TM) was sold on day 25 for $35.0
+=> Crumble was sold on day 23 for $497.0
+=> FNPS Cat Litter (TM) was sold on day 23 for $27.0
+=> FNPS Cat Litter (TM) was sold on day 25 for $29.0
+=> Stan was sold on day 24 for $391.0
+=> Prince Schnookums was sold on day 25 for $340.0
+=> Pheonix was sold on day 24 for $485.0
+=> FNPS Dog Toy (TM) was sold on day 24 for $27.0
+=> FNPS Bird Dry Food (TM) was sold on day 26 for $27.0
+=> Ted was sold on day 24 for $498.0
+=> FNPS Bird Toy (TM) was sold on day 24 for $29.7
+=> Honey was sold on day 25 for $468.0
+=> FNPS Dog Leash (TM) was sold on day 26 for $27.900000000000002
+=> FNPS Bird Dry Food (TM) was sold on day 26 for $24.0
+=> Bella was sold on day 26 for $312.0
+=> FNPS Cat Litter (TM) was sold on day 25 for $25.0
+=> FNPS Cat Litter (TM) was sold on day 27 for $28.0
+=> FNPS Dog Leash (TM) was sold on day 26 for $23.0
+=> Freddie was sold on day 28 for $487.0
+=> FNPS Bird Leash (TM) was sold on day 26 for $28.0
+=> FNPS Cat Litter (TM) was sold on day 27 for $21.6
+=> FNPS Dog Wet Food (TM) was sold on day 28 for $25.0
+=> FNPS Dog Dry Food (TM) was sold on day 26 for $28.8
+=> FNPS Bird Dry Food (TM) was sold on day 28 for $33.0
+=> Prince Schnookums was sold on day 28 for $409.0
+=> FNPS Cat Litter (TM) was sold on day 27 for $21.6
+=> FNPS Bird Toy (TM) was sold on day 28 for $30.0
+=> FNPS Dog Dry Food (TM) was sold on day 28 for $24.3
+
+All sick pets left: 
+=> Bailey the Russian Blue
+=> Whiskey the Russian Blue
+=> Honey the Pitbull
+=> Coco the Lab
+
+The final count of the register is: $27296.399999999994
+
+The total money added to the register from GoToBank(): $1000.0
+end
